@@ -41,3 +41,7 @@ Contributions to improve accuracy, optimize code, or add new features are more t
 
 ## Acknowledgments
 This project was inspired by the need to learn more about face detection using OpenCV and a deep itch to find out more about haar cascading.
+
+## /subj/ Copyrights
+### !!!THIS PROJECT IS COMPLETELY NON-PROFIT!!!
+None of the pictures in this project belong to me and were uploaded because they were the ones i used while making this project. If any copyright owner wants them down i'm more than happy to do that, just shoot me a message!
